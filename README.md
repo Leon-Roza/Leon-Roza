@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leon-Roza
+- 👋 Hi, I’m @Leon-Roza  i'm  working on Catho Online
 - 👀 I’m interested in Python, SQL, Html, Css, React, PHP and R
 - 🌱 I’m currently learning Python
 - 📫 How to reach me Leonrozd@gmail.com
